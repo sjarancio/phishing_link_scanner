@@ -22,9 +22,9 @@ To use this script, you need to have Python installed on your system. Follow the
 
 3. Install the required dependencies:
 
-   pip install tldextract
+   `pip install tldextract`
 
-   pip install python-Levenshtein
+   `pip install python-Levenshtein`
 
 ## Usage
 
