@@ -13,7 +13,7 @@ This Python script is designed to detect potential phishing links by comparing U
 To use this script, you need to have Python installed on your system. Follow these steps to set up the project:
 
 1. Clone the repository to your local machine:
-git clone git@github.com:sjarancio/phishing_link_scanner.git
+git clone https://github.com/sjarancio/phishing_link_scanner.git
 
 2. Navigate to the project directory:
 cd phishing_link_scanner
