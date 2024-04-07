@@ -7,8 +7,6 @@ This Python script is designed to detect potential phishing links by comparing U
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
