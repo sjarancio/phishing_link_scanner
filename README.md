@@ -29,7 +29,8 @@ To use this script, you need to have Python installed on your system. Follow the
 ## Usage
 
 Once you have installed the necessary dependencies, you can run the script to detect potential phishing links. Modify the `test_urls` and `legitimate_domains` variables in the script according to your requirements. Then execute the script using the following command:
-python main.py
+
+`python main.py`
 
 The script will analyze each URL in the `test_urls` list and print potential phishing links if detected.
 
