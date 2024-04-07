@@ -14,17 +14,17 @@ To use this script, you need to have Python installed on your system. Follow the
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/sjarancio/phishing_link_scanner.git
+   git clone https://github.com/sjarancio/phishing_link_scanner.git
 
 2. Navigate to the project directory:
    
-cd phishing_link_scanner
+   cd phishing_link_scanner
 
 3. Install the required dependencies:
 
-pip install tldextract
+   pip install tldextract
 
-pip install python-Levenshtein
+   pip install python-Levenshtein
 
 ## Usage
 
